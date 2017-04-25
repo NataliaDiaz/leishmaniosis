@@ -16,7 +16,11 @@ This is just the beginning of the data collection, and the aim is to help learni
 
 -Can we automate/assist the diagnosis for faster treatments?
 
--Can we do it mobile (+ DB building)? 
+-Can we do it mobile?
+
+-Can we build a database large enough for deep learning automatic diagnosis based only on images?
+
+
 
 
 
